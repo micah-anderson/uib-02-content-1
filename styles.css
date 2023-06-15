@@ -1,0 +1,9 @@
+/* descendant combinator */
+li {
+    list-style-type: square;
+}
+
+/* descendant combinator */
+li li {
+    list-style-type: circle;
+}
